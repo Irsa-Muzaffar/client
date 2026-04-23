@@ -1,0 +1,93 @@
+/* .ctageries {
+    display: grid;
+    grid-template-columns: 20% auto;
+    gap: 20px;
+}
+
+.products {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: solid 1px #eee;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.ctageries aside {
+    box-shadow: 0px 0px 10px 2px #ccc;
+    padding: 15px;
+}
+
+.ctageries aside ul {
+    margin-top: 20px;
+    list-style: none;
+    padding: 0;
+}
+
+.ctageries aside ul li {
+    padding: 7px;
+    cursor: pointer;
+    color: #007bff;
+}
+
+.ProductList {
+    margin-top: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 2px #ccc;
+    height: 400px;
+    width: 70%;
+}
+
+.ProductList table {
+    gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+.ProductList td,
+.ProductList th {
+  padding: 9px 11px;
+  word-spacing: 3px;
+}
+
+/* 1. Use the correct Class Name (Matching your HTML) */
+/* 2. Removed width: 100px so items have room to breathe */
+/* .ProductName {  */
+    /* display: grid; */
+    /* This creates 4 equal columns. Change '4' to '3' if you want them even bigger */
+    /* grid-template-columns: repeat(4, 1fr); 
+    gap: 20px; 
+    margin-top: 20px;
+    width: 100%; 
+} */
+
+/* .productItem {
+    box-shadow: 0px 0px 10px 2px #ccc;
+    padding: 15px; Added padding so content doesn't touch the edges */
+    /* text-align: center;
+    background: #fff;
+} */
+
+/* 3. This makes the image look "Normal"
+.productItem img {
+    width: 100%;      Image fills the card width
+    height: 200px;     Give it a fixed height so they all match 
+    object-fit: contain; Ensures the product isn't cropped or stretched 
+    display: block;
+    margin: 0 auto;
+}
+
+.productItem h3 {
+    background-color: yellow;
+    font-size: 15px; /* Increased slightly for readability
+    padding: 10px 0px;
+    margin: 0px 0;
+    text-align: center;
+}
+
+.priceCart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+} */ 
+
+
